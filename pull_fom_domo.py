@@ -3,7 +3,7 @@ import logging
 import os
 import requests
 import json
-from config.env import SESSION_TOKEN,SCHEDULE_URL
+from config.env import SESSION_TOKEN, SCHEDULE_URL
 from commons import *
 from upload_to_domo import generate_update_schema, upload_csv
 from logger_config import setup_logging
@@ -15,7 +15,14 @@ logger = logging.getLogger(__name__)
 
 
 def extract_fields(schedule):
-    recipients = schedule['recipients']
+    recipients = schedule.get('recipients')
+    if recipients is None:
+        recipient_emails = [None]
+        recipient_user_ids = [None]
+    else:
+        recipient_emails = [recipient.get('emailAddress', '') for recipient in recipients]
+        recipient_user_ids = [str(recipient.get('userId', '')) for recipient in recipients]
+
     extracted_data = {
         'id': schedule['id'],
         'reportId': schedule['reportId'],
@@ -31,13 +38,9 @@ def extract_fields(schedule):
         'emailSize': schedule['emailSize'],
         'usingLayout': schedule['usingLayout'],
         'status': schedule['status'],
+        'recipient_emails': recipient_emails,
+        'recipient_user_ids': recipient_user_ids
     }
-
-    recipient_emails = [recipient.get('emailAddress', '') for recipient in recipients]
-    recipient_user_ids = [str(recipient.get('userId', '')) for recipient in recipients]
-
-    extracted_data['recipient_emails'] = recipient_emails
-    extracted_data['recipient_user_ids'] = recipient_user_ids
 
     return extracted_data
 
@@ -94,5 +97,5 @@ def get_schedule_info():
 
 
 get_schedule_info()
-generate_update_schema()
-upload_csv()
+# generate_update_schema()
+# upload_csv()
