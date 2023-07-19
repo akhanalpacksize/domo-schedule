@@ -97,5 +97,5 @@ def get_schedule_info():
 
 
 get_schedule_info()
-# generate_update_schema()
-# upload_csv()
+generate_update_schema()
+upload_csv()
