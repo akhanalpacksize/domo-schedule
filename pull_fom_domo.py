@@ -64,7 +64,7 @@ def get_schedule_info():
 
         output_file = os.path.join(output_dir, schedule_report)
 
-        with open(output_file, 'w', newline='') as csvfile:
+        with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
             fieldnames = ['id', 'reportId', 'reportTitleId', 'reportTitle', 'reportSubject', 'startTime', 'endTime',
                           'automated', 'cardCount', 'attachmentCount', 'attachmentSize', 'emailSize', 'usingLayout',
                           'status', 'recipient_emails', 'recipient_user_ids']
