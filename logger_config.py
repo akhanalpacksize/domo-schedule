@@ -1,6 +1,7 @@
 import os
 import json
 import logging.config
+from utils import create_folder_if_does_not_exist
 
 
 def setup_logging(
@@ -14,6 +15,7 @@ def setup_logging(
     """
     path = default_path
     value = os.getenv(env_key, None)
+    create_folder_if_does_not_exist('logs')
     if value:
         path = value
     if os.path.exists(path):

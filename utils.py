@@ -7,6 +7,11 @@ from base64 import b64encode
 from config.env import *
 
 
+def create_folder_if_does_not_exist(dir_name):
+    if not os.path.exists(dir_name):
+        os.makedirs(dir_name)
+
+
 # GETS ACCESS TOKEN FOR DOMO
 def get_access_token():
     auth_headers = {
