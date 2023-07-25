@@ -125,6 +125,3 @@ def upload_csv():
         error_message = f"CSV file {schedule_report} not found in {output_dir} folder."
         logger.info(f"CSV file {schedule_report} not found in {output_dir} folder.")
         send_email_error(error_message)
-
-
-

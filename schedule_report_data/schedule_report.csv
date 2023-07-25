@@ -1,243 +1,245 @@
 id,reportId,reportTitleId,reportTitle,reportSubject,startTime,endTime,automated,cardCount,attachmentCount,attachmentSize,emailSize,usingLayout,status,recipient_emails,recipient_user_ids
-80824,383,246,Walmart Metrics (Snowflake),Topeka Walmart Metrics Report,1689750078000,1689750182000,True,18,0,0,1034646,True,success,Brett.Kinsey@walmart.com,
-80824,383,246,Walmart Metrics (Snowflake),Topeka Walmart Metrics Report,1689750078000,1689750182000,True,18,0,0,1034646,True,success,MCI1-OM@walmart.com,
-80824,383,246,Walmart Metrics (Snowflake),Topeka Walmart Metrics Report,1689750078000,1689750182000,True,18,0,0,1034646,True,success,Ryan.McMichael@walmart.com,
-80824,383,246,Walmart Metrics (Snowflake),Topeka Walmart Metrics Report,1689750078000,1689750182000,True,18,0,0,1034646,True,success,Summer.Ward@walmart.com,
-80824,383,246,Walmart Metrics (Snowflake),Topeka Walmart Metrics Report,1689750078000,1689750182000,True,18,0,0,1034646,True,success,Travis.Thomas0@walmart.com,
-80824,383,246,Walmart Metrics (Snowflake),Topeka Walmart Metrics Report,1689750078000,1689750182000,True,18,0,0,1034646,True,success,mark.elzea@walmart.com,
-80825,580,348,IP | Next 30 Days | Not Announced,IP | Next 30 Days | Not Announced Report,1689750078000,1689750083000,True,1,0,0,26536,False,success,,1895668343
-80826,652,91,Sales Order Details,Sales Order Details Report,1689750078000,1689750079000,True,1,0,0,0,False,success,,
-80823,777,479,EBU Orders per Day  | Order income  | Auftragseingang,EBU Orders per Day  | Order income Report,1689748273000,1689748276000,True,1,0,0,32630,False,success,,405888177
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Andreia.Bernardes@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Andy.Harts@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Annick.Vandeweyer@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Arnaud.Dresselaers@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Ayse.Sineren@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Brigitte.Putseys@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Camilla.Ceuterick@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Chrysanthos.Karagiannis@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Cindy.VanLooy@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Eli.Geysen@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Emily.Manzanares2@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Frederik.Panneel@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Glenn.Theys@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Hannes.Hellebaut@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Kathleen.Verbruggen@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Kobe.Manshoven@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Lobke.Coenen@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Mathijs.Cornelissen@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Michelle.Einhaus@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Nancy.VanLooy@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Olivier.Gerard@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Philippe.DeGroof@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Rick.Kaper@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Seppe.Bellens@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Shari.Ceulemans@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Sven.Vandijck@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Thomas.Damen@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Valerie.Jordens@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Vicky.Waterbley@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,Yves.Janssens@nike.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,ingo.loehr@packsize.com,
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,,1442174269
-80822,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1689746473000,1689746508000,True,8,0,0,553572,True,success,,216221878
-80821,670,397,Customer Operations | CSC | Shorted Bales Today,Customer Operations | CSC | Shorted Bales Today Report,1689743775000,1689743777000,True,1,0,0,5255,False,success,customeroperations.us.ticketing@packsize.com,
-80820,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1689742878000,1689742904000,True,12,0,0,1147488,True,success,Felix.Borch@dhl.com,
-80820,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1689742878000,1689742904000,True,12,0,0,1147488,True,success,ali.apaydin@dhl.com,
-80820,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1689742878000,1689742904000,True,12,0,0,1147488,True,success,andree.löbbert@dhl.com,
-80820,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1689742878000,1689742904000,True,12,0,0,1147488,True,success,christopher.nawroth@dhl.com,
-80820,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1689742878000,1689742904000,True,12,0,0,1147488,True,success,daniel.leupold@dhl.com,
-80820,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1689742878000,1689742904000,True,12,0,0,1147488,True,success,dawid.dabrowski@dhl.com,
-80820,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1689742878000,1689742904000,True,12,0,0,1147488,True,success,kevin.bekaan@dhl.com,
-80820,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1689742878000,1689742904000,True,12,0,0,1147488,True,success,rafael.lebek@dhl.com,
-80820,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1689742878000,1689742904000,True,12,0,0,1147488,True,success,sebastian.mans@dhl.com,
-80820,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1689742878000,1689742904000,True,12,0,0,1147488,True,success,svitlana.shatailo@dhl.com,
-80820,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1689742878000,1689742904000,True,12,0,0,1147488,True,success,veysel.özen@dhl.com,
-80820,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1689742878000,1689742904000,True,12,0,0,1147488,True,success,,1325249757
-80820,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1689742878000,1689742904000,True,12,0,0,1147488,True,success,,1442174269
-80820,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1689742878000,1689742904000,True,12,0,0,1147488,True,success,,1466512107
-80820,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1689742878000,1689742904000,True,12,0,0,1147488,True,success,,1581957992
-80820,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1689742878000,1689742904000,True,12,0,0,1147488,True,success,,209563726
-80820,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1689742878000,1689742904000,True,12,0,0,1147488,True,success,,77088880
-80820,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1689742878000,1689742904000,True,12,0,0,1147488,True,success,,796885386
-80819,820,382,Customer Machine Reporting Dashboard,Performance Health Report,1689739274000,1689739337000,True,27,0,0,1468906,True,success,larry.sosbey@packsize.com,
-80819,820,382,Customer Machine Reporting Dashboard,Performance Health Report,1689739274000,1689739337000,True,27,0,0,1468906,True,success,mike.berberick@performancehealth.com,
-80819,820,382,Customer Machine Reporting Dashboard,Performance Health Report,1689739274000,1689739337000,True,27,0,0,1468906,True,success,randy.jaunzemis@performancehealth.com,
-80819,820,382,Customer Machine Reporting Dashboard,Performance Health Report,1689739274000,1689739337000,True,27,0,0,1468906,True,success,tim.bohr@performancehealth.com,
-80819,820,382,Customer Machine Reporting Dashboard,Performance Health Report,1689739274000,1689739337000,True,27,0,0,1468906,True,success,,1307196779
-80819,820,382,Customer Machine Reporting Dashboard,Performance Health Report,1689739274000,1689739337000,True,27,0,0,1468906,True,success,,1314239453
-80819,820,382,Customer Machine Reporting Dashboard,Performance Health Report,1689739274000,1689739337000,True,27,0,0,1468906,True,success,,1667009079
-80819,820,382,Customer Machine Reporting Dashboard,Performance Health Report,1689739274000,1689739337000,True,27,0,0,1468906,True,success,,175859837
-80818,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1689726680000,1689726926000,True,30,0,0,1639384,True,success,Bhargav.gorantla@walmart.com,
-80818,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1689726680000,1689726926000,True,30,0,0,1639384,True,success,James.Bright@walmart.com,
-80818,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1689726680000,1689726926000,True,30,0,0,1639384,True,success,Jeff.Cebe@walmart.com,
-80818,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1689726680000,1689726926000,True,30,0,0,1639384,True,success,Lakeysha.Gilbert@walmart.com,
-80818,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1689726680000,1689726926000,True,30,0,0,1639384,True,success,Mayur.Patel@walmart.com,
-80818,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1689726680000,1689726926000,True,30,0,0,1639384,True,success,Robert.Longfellow@walmart.com,
-80818,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1689726680000,1689726926000,True,30,0,0,1639384,True,success,Rollex.Tennant@walmart.com,
-80818,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1689726680000,1689726926000,True,30,0,0,1639384,True,success,Vivek.Tomar@walmart.com,
-80818,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1689726680000,1689726926000,True,30,0,0,1639384,True,success,William.Pickens@walmart.com,
-80818,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1689726680000,1689726926000,True,30,0,0,1639384,True,success,,1174898150
-80818,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1689726680000,1689726926000,True,30,0,0,1639384,True,success,,165789601
-80818,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1689726680000,1689726926000,True,30,0,0,1639384,True,success,,1659346064
-80818,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1689726680000,1689726926000,True,30,0,0,1639384,True,success,,175859837
-80818,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1689726680000,1689726926000,True,30,0,0,1639384,True,success,,30698974
-80818,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1689726680000,1689726926000,True,30,0,0,1639384,True,success,,405762750
-80818,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1689726680000,1689726926000,True,30,0,0,1639384,True,success,,776209209
-80818,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1689726680000,1689726926000,True,30,0,0,1639384,True,success,,816620066
-80817,669,397,Customer Operations | CSC | Shorted Bales Today,Customer Operations | CSC | Shorted Bales Today Report,1689724878000,1689724880000,True,1,0,0,5255,False,success,customeroperations.us.ticketing@packsize.com,
-80814,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1689723073000,1689723222000,True,29,0,0,3465140,True,success,Benjie.Lewis@walmart.com,
-80814,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1689723073000,1689723222000,True,29,0,0,3465140,True,success,Jamie.Murdock@walmart.com,
-80814,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1689723073000,1689723222000,True,29,0,0,3465140,True,success,Jennifer.Hritz@walmart.com,
-80814,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1689723073000,1689723222000,True,29,0,0,3465140,True,success,Jeremy.Bowman0@walmart.com,
-80814,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1689723073000,1689723222000,True,29,0,0,3465140,True,success,Joshua.Doan@walmart.com,
-80814,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1689723073000,1689723222000,True,29,0,0,3465140,True,success,Joshua.Nugent@walmart.com,
-80814,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1689723073000,1689723222000,True,29,0,0,3465140,True,success,Michael.Coyle@walmart.com,
-80814,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1689723073000,1689723222000,True,29,0,0,3465140,True,success,Shlok.Sharma@walmart.com,
-80814,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1689723073000,1689723222000,True,29,0,0,3465140,True,success,Steven.Marsden@walmart.com,
-80814,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1689723073000,1689723222000,True,29,0,0,3465140,True,success,,1174898150
-80814,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1689723073000,1689723222000,True,29,0,0,3465140,True,success,,165789601
-80814,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1689723073000,1689723222000,True,29,0,0,3465140,True,success,,1685242039
-80814,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1689723073000,1689723222000,True,29,0,0,3465140,True,success,,2013858508
-80814,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1689723073000,1689723222000,True,29,0,0,3465140,True,success,,2042355388
-80814,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1689723073000,1689723222000,True,29,0,0,3465140,True,success,,30698974
-80814,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1689723073000,1689723222000,True,29,0,0,3465140,True,success,,405762750
-80814,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1689723073000,1689723222000,True,29,0,0,3465140,True,success,,715534700
-80814,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1689723073000,1689723222000,True,29,0,0,3465140,True,success,,816620066
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,Anthony.Metoyer@walmart.com,
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,Bush.Nguyen@walmart.com,
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,Corey.Cranmer@walmart.com,
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,Jacobo.Valdez@walmart.com,
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,Jeremy.Bowman0@walmart.com,
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,Joshua.Doan@walmart.com,
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,Joshua.Nugent@walmart.com,
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,Lance.Jackson@walmart.com,
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,Matthew.Frisby@walmart.com,
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,Robert.Longfellow@walmart.com,
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,Ruben.Medina.Jr@walmart.com,
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,Steven.Marsden@walmart.com,
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,francisco.vidal.castro@walmart.com,
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,justin.vanzuiden@walmart.com,
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,madalina.vrejoiu@walmart.com,
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,miranda.bendele@walmart.com,
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,travis.garrison@walmart.com,
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,,1174898150
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,,1446149747
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,,165789601
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,,1798393633
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,,2135794304
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,,290517152
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,,30698974
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,,405762750
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,,715534700
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,,816620066
-80815,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1689723073000,1689723229000,True,28,0,0,3354346,True,success,,94092464
-80816,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1689723073000,1689723215000,True,28,0,0,3518470,True,success,Jeremy.Bowman0@walmart.com,
-80816,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1689723073000,1689723215000,True,28,0,0,3518470,True,success,Joshua.Doan@walmart.com,
-80816,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1689723073000,1689723215000,True,28,0,0,3518470,True,success,Joshua.Nugent@walmart.com,
-80816,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1689723073000,1689723215000,True,28,0,0,3518470,True,success,Steven.Marsden@walmart.com,
-80816,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1689723073000,1689723215000,True,28,0,0,3518470,True,success,dean.yoder@walmart.com,
-80816,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1689723073000,1689723215000,True,28,0,0,3518470,True,success,kendall.powers@walmart.com,
-80816,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1689723073000,1689723215000,True,28,0,0,3518470,True,success,leanne.aurand@walmart.com,
-80816,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1689723073000,1689723215000,True,28,0,0,3518470,True,success,,1174898150
-80816,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1689723073000,1689723215000,True,28,0,0,3518470,True,success,,165789601
-80816,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1689723073000,1689723215000,True,28,0,0,3518470,True,success,,2109124505
-80816,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1689723073000,1689723215000,True,28,0,0,3518470,True,success,,2137348407
-80816,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1689723073000,1689723215000,True,28,0,0,3518470,True,success,,30698974
-80816,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1689723073000,1689723215000,True,28,0,0,3518470,True,success,,405762750
-80816,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1689723073000,1689723215000,True,28,0,0,3518470,True,success,,669710090
-80816,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1689723073000,1689723215000,True,28,0,0,3518470,True,success,,715534700
-80816,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1689723073000,1689723215000,True,28,0,0,3518470,True,success,,816620066
-80813,691,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1689722177000,1689722320000,True,30,0,0,1639384,True,success,,1659346064
-80813,691,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1689722177000,1689722320000,True,30,0,0,1639384,True,success,,405762750
-80812,549,336,Smartsheet Non-Complete Tasks,Smartsheet Non-Complete Tasks Report,1689721277000,1689721280000,True,1,0,0,31602,False,success,,1790657358
-80810,630,379,Crutchfield,Crutchfield Report,1689717674000,1689717726000,True,18,0,0,1443354,True,success,cgroseclose@crutchfield.com,
-80810,630,379,Crutchfield,Crutchfield Report,1689717674000,1689717726000,True,18,0,0,1443354,True,success,sbenabed@crutchfield.com,
-80810,630,379,Crutchfield,Crutchfield Report,1689717674000,1689717726000,True,18,0,0,1443354,True,success,shanea@crutchfield.com,
-80810,630,379,Crutchfield,Crutchfield Report,1689717674000,1689717726000,True,18,0,0,1443354,True,success,tallen@crutchfield.com,
-80810,630,379,Crutchfield,Crutchfield Report,1689717674000,1689717726000,True,18,0,0,1443354,True,success,,1088055177
-80810,630,379,Crutchfield,Crutchfield Report,1689717674000,1689717726000,True,18,0,0,1443354,True,success,,1174898150
-80810,630,379,Crutchfield,Crutchfield Report,1689717674000,1689717726000,True,18,0,0,1443354,True,success,,1331552946
-80810,630,379,Crutchfield,Crutchfield Report,1689717674000,1689717726000,True,18,0,0,1443354,True,success,,175859837
-80810,630,379,Crutchfield,Crutchfield Report,1689717674000,1689717726000,True,18,0,0,1443354,True,success,,293502580
-80811,682,370,CSC | Completion Time Later than Appointment Time Audit,CSC | Completion Time Later than Appointment Time Audit Report,1689717674000,1689717680000,True,1,0,0,5199,False,success,customeroperations.us.ticketing@packsize.com,
-80811,682,370,CSC | Completion Time Later than Appointment Time Audit,CSC | Completion Time Later than Appointment Time Audit Report,1689717674000,1689717680000,True,1,0,0,5199,False,success,fanfold@vancraft.com,
-80811,682,370,CSC | Completion Time Later than Appointment Time Audit,CSC | Completion Time Later than Appointment Time Audit Report,1689717674000,1689717680000,True,1,0,0,5199,False,success,jsateam@spotinc.com,
-80809,647,320,Packsize Supply | Halted zFold Orders,Packsize Supply | Halted zFold Orders Report,1689714975000,1689714977000,True,1,0,0,5181,False,success,customeroperations.us.ticketing@packsize.com,
-80807,808,490,FLEX Production Machine -Error Pareto Primary Errors,FLEX Production Machine -Error Pareto Primary Errors Report,1689714102000,1689714403000,True,1,0,0,72651,False,success,,1076029022
-80807,808,490,FLEX Production Machine -Error Pareto Primary Errors,FLEX Production Machine -Error Pareto Primary Errors Report,1689714102000,1689714403000,True,1,0,0,72651,False,success,,394054519
-80807,808,490,FLEX Production Machine -Error Pareto Primary Errors,FLEX Production Machine -Error Pareto Primary Errors Report,1689714102000,1689714403000,True,1,0,0,72651,False,success,,46396150
-80808,821,498,FLEX Production Machine -Error Table,FLEX Production Machine -Error Table Report,1689714102000,1689714404000,True,1,0,0,692566,False,success,,1076029022
-80808,821,498,FLEX Production Machine -Error Table,FLEX Production Machine -Error Table Report,1689714102000,1689714404000,True,1,0,0,692566,False,success,,394054519
-80808,821,498,FLEX Production Machine -Error Table,FLEX Production Machine -Error Table Report,1689714102000,1689714404000,True,1,0,0,692566,False,success,,46396150
-80808,821,498,FLEX Production Machine -Error Table,FLEX Production Machine -Error Table Report,1689714102000,1689714404000,True,1,0,0,692566,False,success,,485300974
-80803,347,223,Packsize Supply | Requested to Planned Delivery Days Diff,Date Change Notification | PM,1689714101000,1689714104000,True,1,0,0,2069,False,success,customeroperations.us@packsize.com,
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,Bhargav.gorantla@walmart.com,
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,Denis.Markov@walmart.com,
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,Jeremy.Bowman0@walmart.com,
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,Kevin.Kowalski@walmart.com,
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,Paul.Arthur@walmart.com,
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,Randolph.Scott@walmart.com,
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,Steven.Marsden@walmart.com,
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,William.Pickens@walmart.com,
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,james.sorlie@walmart.com,
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,nathan.merchant@walmart.com,
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,sergio.soto@walmart.com,
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,steve.larsen@packsize.com,
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,steven.marsden@packsize.com,
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,vivek.tomar@walmart.com,
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,,1174898150
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,,1369192882
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,,1419631367
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,,1718809419
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,,1826227365
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,,1891452796
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,,294134365
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,,30698974
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,,330177839
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,,405762750
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,,533029846
-80804,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1689714101000,1689714183000,True,32,0,0,3404120,True,success,,715534700
-80805,613,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689714101000,1689714311000,True,1,0,0,76414,True,success,stephen.whetstone@flex.com,
-80805,613,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689714101000,1689714311000,True,1,0,0,76414,True,success,,1076029022
-80805,613,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689714101000,1689714311000,True,1,0,0,76414,True,success,,1387011723
-80805,613,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689714101000,1689714311000,True,1,0,0,76414,True,success,,1700135738
-80805,613,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689714101000,1689714311000,True,1,0,0,76414,True,success,,1961942960
-80805,613,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689714101000,1689714311000,True,1,0,0,76414,True,success,,394054519
-80805,613,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689714101000,1689714311000,True,1,0,0,76414,True,success,,46396150
-80805,613,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689714101000,1689714311000,True,1,0,0,76414,True,success,,760277472
-80805,613,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689714101000,1689714311000,True,1,0,0,76414,True,success,,968846050
-80806,803,382,Customer Machine Reporting Dashboard,The Church of Jesus Christ of Latter-day Saints Report,1689714101000,1689714170000,True,27,0,0,1769170,True,success,TurnerJD@churchofjesuschrist.org,
-80806,803,382,Customer Machine Reporting Dashboard,The Church of Jesus Christ of Latter-day Saints Report,1689714101000,1689714170000,True,27,0,0,1769170,True,success,chad.johnson@churchofjesuschrist.org,
-80806,803,382,Customer Machine Reporting Dashboard,The Church of Jesus Christ of Latter-day Saints Report,1689714101000,1689714170000,True,27,0,0,1769170,True,success,nesbithm@churchofjesuschrist.org,
-80806,803,382,Customer Machine Reporting Dashboard,The Church of Jesus Christ of Latter-day Saints Report,1689714101000,1689714170000,True,27,0,0,1769170,True,success,,1512916494
-80806,803,382,Customer Machine Reporting Dashboard,The Church of Jesus Christ of Latter-day Saints Report,1689714101000,1689714170000,True,27,0,0,1769170,True,success,,1644326214
-80806,803,382,Customer Machine Reporting Dashboard,The Church of Jesus Christ of Latter-day Saints Report,1689714101000,1689714170000,True,27,0,0,1769170,True,success,,175859837
-80806,803,382,Customer Machine Reporting Dashboard,The Church of Jesus Christ of Latter-day Saints Report,1689714101000,1689714170000,True,27,0,0,1769170,True,success,,1905685649
-80806,803,382,Customer Machine Reporting Dashboard,The Church of Jesus Christ of Latter-day Saints Report,1689714101000,1689714170000,True,27,0,0,1769170,True,success,,442349503
-80800,509,339,Avg Boxes and Errors for HD Yesterday,Avg Boxes and Errors for HD Last 7 Days Report,1689710480000,1689710483000,True,1,0,0,99232,False,success,downstream_bi@homedepot.com,
-80800,509,339,Avg Boxes and Errors for HD Yesterday,Avg Boxes and Errors for HD Last 7 Days Report,1689710480000,1689710483000,True,1,0,0,99232,False,success,,1363758579
-80800,509,339,Avg Boxes and Errors for HD Yesterday,Avg Boxes and Errors for HD Last 7 Days Report,1689710480000,1689710483000,True,1,0,0,99232,False,success,,485300974
-80801,522,215,Packsize Supply | Order Comment Review Report,Packsize Supply | Order Comment Review Report Report,1689710480000,1689710482000,True,1,0,0,30231,False,success,customeroperations.us@packsize.com,
-80802,612,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689710480000,1689710650000,True,1,0,0,76414,True,success,stephen.whetstone@flex.com,
-80802,612,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689710480000,1689710650000,True,1,0,0,76414,True,success,,1178106350
-80802,612,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689710480000,1689710650000,True,1,0,0,76414,True,success,,1387011723
-80802,612,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689710480000,1689710650000,True,1,0,0,76414,True,success,,1700135738
-80802,612,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689710480000,1689710650000,True,1,0,0,76414,True,success,,1961942960
-80802,612,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689710480000,1689710650000,True,1,0,0,76414,True,success,,394054519
-80802,612,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689710480000,1689710650000,True,1,0,0,76414,True,success,,46396150
-80802,612,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689710480000,1689710650000,True,1,0,0,76414,True,success,,760277472
-80802,612,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689710480000,1689710650000,True,1,0,0,76414,True,success,,968846050
-80798,335,157,Traffic | CPU Template Data,Traffic | CPU Template Data Report | PM,1689706879000,1689706882000,True,1,0,0,146479,False,success,traffic-us@packsize.com,
-80799,611,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689706879000,1689707162000,True,1,0,0,76414,True,success,stephen.whetstone@flex.com,
-80799,611,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689706879000,1689707162000,True,1,0,0,76414,True,success,,1178106350
-80799,611,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689706879000,1689707162000,True,1,0,0,76414,True,success,,1387011723
-80799,611,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689706879000,1689707162000,True,1,0,0,76414,True,success,,1700135738
-80799,611,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689706879000,1689707162000,True,1,0,0,76414,True,success,,1961942960
-80799,611,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689706879000,1689707162000,True,1,0,0,76414,True,success,,394054519
-80799,611,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689706879000,1689707162000,True,1,0,0,76414,True,success,,46396150
-80799,611,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689706879000,1689707162000,True,1,0,0,76414,True,success,,760277472
-80799,611,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1689706879000,1689707162000,True,1,0,0,76414,True,success,,968846050
-80797,644,370,CSC | Completion Time Later than Appointment Time Audit,CSC | Completion Time Later than Appointment Time Audit PM Report,1689705079000,1689705081000,True,1,0,0,5199,False,success,customeroperations.us.ticketing@packsize.com,
-80797,644,370,CSC | Completion Time Later than Appointment Time Audit,CSC | Completion Time Later than Appointment Time Audit PM Report,1689705079000,1689705081000,True,1,0,0,5199,False,success,fanfold@vancraft.com,
-80797,644,370,CSC | Completion Time Later than Appointment Time Audit,CSC | Completion Time Later than Appointment Time Audit PM Report,1689705079000,1689705081000,True,1,0,0,5199,False,success,jsateam@spotinc.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Andreia.Bernardes@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Andy.Harts@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Annick.Vandeweyer@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Arnaud.Dresselaers@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Ayse.Sineren@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Brigitte.Putseys@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Camilla.Ceuterick@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Chrysanthos.Karagiannis@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Cindy.VanLooy@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Eli.Geysen@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Emily.Manzanares2@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Frederik.Panneel@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Glenn.Theys@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Hannes.Hellebaut@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Kathleen.Verbruggen@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Kobe.Manshoven@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Lobke.Coenen@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Mathijs.Cornelissen@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Michelle.Einhaus@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Nancy.VanLooy@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Olivier.Gerard@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Philippe.DeGroof@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Rick.Kaper@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Seppe.Bellens@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Shari.Ceulemans@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Sven.Vandijck@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Thomas.Damen@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Valerie.Jordens@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Vicky.Waterbley@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,Yves.Janssens@nike.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,ingo.loehr@packsize.com,
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,,1442174269
+81606,806,488,Nike Wings EBU,Nike Wings EBU Report - Daily,1690264875000,1690264908000,True,8,0,0,595940,True,success,,216221878
+81605,670,397,Customer Operations | CSC | Shorted Bales Today,Customer Operations | CSC | Shorted Bales Today Report,1690262176000,1690262178000,True,1,0,0,14246,False,success,customeroperations.us.ticketing@packsize.com,
+81604,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1690261272000,1690261298000,True,12,0,0,1135752,True,success,Felix.Borch@dhl.com,
+81604,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1690261272000,1690261298000,True,12,0,0,1135752,True,success,ali.apaydin@dhl.com,
+81604,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1690261272000,1690261298000,True,12,0,0,1135752,True,success,andree.löbbert@dhl.com,
+81604,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1690261272000,1690261298000,True,12,0,0,1135752,True,success,christopher.nawroth@dhl.com,
+81604,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1690261272000,1690261298000,True,12,0,0,1135752,True,success,daniel.leupold@dhl.com,
+81604,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1690261272000,1690261298000,True,12,0,0,1135752,True,success,dawid.dabrowski@dhl.com,
+81604,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1690261272000,1690261298000,True,12,0,0,1135752,True,success,kevin.bekaan@dhl.com,
+81604,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1690261272000,1690261298000,True,12,0,0,1135752,True,success,m.runge@dhl.com,
+81604,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1690261272000,1690261298000,True,12,0,0,1135752,True,success,rafael.lebek@dhl.com,
+81604,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1690261272000,1690261298000,True,12,0,0,1135752,True,success,sebastian.mans@dhl.com,
+81604,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1690261272000,1690261298000,True,12,0,0,1135752,True,success,svitlana.shatailo@dhl.com,
+81604,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1690261272000,1690261298000,True,12,0,0,1135752,True,success,veysel.özen@dhl.com,
+81604,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1690261272000,1690261298000,True,12,0,0,1135752,True,success,,1325249757
+81604,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1690261272000,1690261298000,True,12,0,0,1135752,True,success,,1442174269
+81604,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1690261272000,1690261298000,True,12,0,0,1135752,True,success,,1466512107
+81604,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1690261272000,1690261298000,True,12,0,0,1135752,True,success,,1581957992
+81604,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1690261272000,1690261298000,True,12,0,0,1135752,True,success,,209563726
+81604,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1690261272000,1690261298000,True,12,0,0,1135752,True,success,,77088880
+81604,807,491,DHL Bergkamen IKEA - Customer Report,DHL Bergkamen IKEA - Customer Report Report,1690261272000,1690261298000,True,12,0,0,1135752,True,success,,796885386
+81603,820,382,Customer Machine Reporting Dashboard,Performance Health Report,1690257672000,1690257728000,True,27,0,0,1451894,True,success,larry.sosbey@packsize.com,
+81603,820,382,Customer Machine Reporting Dashboard,Performance Health Report,1690257672000,1690257728000,True,27,0,0,1451894,True,success,mike.berberick@performancehealth.com,
+81603,820,382,Customer Machine Reporting Dashboard,Performance Health Report,1690257672000,1690257728000,True,27,0,0,1451894,True,success,randy.jaunzemis@performancehealth.com,
+81603,820,382,Customer Machine Reporting Dashboard,Performance Health Report,1690257672000,1690257728000,True,27,0,0,1451894,True,success,tim.bohr@performancehealth.com,
+81603,820,382,Customer Machine Reporting Dashboard,Performance Health Report,1690257672000,1690257728000,True,27,0,0,1451894,True,success,,1307196779
+81603,820,382,Customer Machine Reporting Dashboard,Performance Health Report,1690257672000,1690257728000,True,27,0,0,1451894,True,success,,1314239453
+81603,820,382,Customer Machine Reporting Dashboard,Performance Health Report,1690257672000,1690257728000,True,27,0,0,1451894,True,success,,1667009079
+81603,820,382,Customer Machine Reporting Dashboard,Performance Health Report,1690257672000,1690257728000,True,27,0,0,1451894,True,success,,175859837
+81602,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1690245075000,1690245203000,True,30,0,0,1403408,True,success,Bhargav.gorantla@walmart.com,
+81602,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1690245075000,1690245203000,True,30,0,0,1403408,True,success,James.Bright@walmart.com,
+81602,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1690245075000,1690245203000,True,30,0,0,1403408,True,success,Jeff.Cebe@walmart.com,
+81602,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1690245075000,1690245203000,True,30,0,0,1403408,True,success,Lakeysha.Gilbert@walmart.com,
+81602,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1690245075000,1690245203000,True,30,0,0,1403408,True,success,Mayur.Patel@walmart.com,
+81602,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1690245075000,1690245203000,True,30,0,0,1403408,True,success,Robert.Longfellow@walmart.com,
+81602,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1690245075000,1690245203000,True,30,0,0,1403408,True,success,Rollex.Tennant@walmart.com,
+81602,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1690245075000,1690245203000,True,30,0,0,1403408,True,success,Vivek.Tomar@walmart.com,
+81602,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1690245075000,1690245203000,True,30,0,0,1403408,True,success,William.Pickens@walmart.com,
+81602,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1690245075000,1690245203000,True,30,0,0,1403408,True,success,,1174898150
+81602,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1690245075000,1690245203000,True,30,0,0,1403408,True,success,,165789601
+81602,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1690245075000,1690245203000,True,30,0,0,1403408,True,success,,1659346064
+81602,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1690245075000,1690245203000,True,30,0,0,1403408,True,success,,175859837
+81602,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1690245075000,1690245203000,True,30,0,0,1403408,True,success,,30698974
+81602,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1690245075000,1690245203000,True,30,0,0,1403408,True,success,,405762750
+81602,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1690245075000,1690245203000,True,30,0,0,1403408,True,success,,776209209
+81602,696,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1690245075000,1690245203000,True,30,0,0,1403408,True,success,,816620066
+81601,669,397,Customer Operations | CSC | Shorted Bales Today,Customer Operations | CSC | Shorted Bales Today Report,1690243277000,1690243280000,True,1,0,0,14246,False,success,customeroperations.us.ticketing@packsize.com,
+81597,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1690241474000,1690241601000,True,29,0,0,3513504,True,success,Benjie.Lewis@walmart.com,
+81597,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1690241474000,1690241601000,True,29,0,0,3513504,True,success,Jamie.Murdock@walmart.com,
+81597,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1690241474000,1690241601000,True,29,0,0,3513504,True,success,Jennifer.Hritz@walmart.com,
+81597,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1690241474000,1690241601000,True,29,0,0,3513504,True,success,Jeremy.Bowman0@walmart.com,
+81597,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1690241474000,1690241601000,True,29,0,0,3513504,True,success,Joshua.Doan@walmart.com,
+81597,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1690241474000,1690241601000,True,29,0,0,3513504,True,success,Joshua.Nugent@walmart.com,
+81597,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1690241474000,1690241601000,True,29,0,0,3513504,True,success,Michael.Coyle@walmart.com,
+81597,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1690241474000,1690241601000,True,29,0,0,3513504,True,success,Shlok.Sharma@walmart.com,
+81597,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1690241474000,1690241601000,True,29,0,0,3513504,True,success,Steven.Marsden@walmart.com,
+81597,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1690241474000,1690241601000,True,29,0,0,3513504,True,success,,1174898150
+81597,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1690241474000,1690241601000,True,29,0,0,3513504,True,success,,165789601
+81597,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1690241474000,1690241601000,True,29,0,0,3513504,True,success,,1685242039
+81597,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1690241474000,1690241601000,True,29,0,0,3513504,True,success,,2013858508
+81597,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1690241474000,1690241601000,True,29,0,0,3513504,True,success,,2042355388
+81597,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1690241474000,1690241601000,True,29,0,0,3513504,True,success,,30698974
+81597,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1690241474000,1690241601000,True,29,0,0,3513504,True,success,,405762750
+81597,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1690241474000,1690241601000,True,29,0,0,3513504,True,success,,715534700
+81597,514,287,Walmart CLT1 Metrics - Today,Walmart CLT1 Metrics - Daily Report,1690241474000,1690241601000,True,29,0,0,3513504,True,success,,816620066
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,Anthony.Metoyer@walmart.com,
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,Bush.Nguyen@walmart.com,
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,Corey.Cranmer@walmart.com,
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,Jacobo.Valdez@walmart.com,
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,Jeremy.Bowman0@walmart.com,
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,Joshua.Doan@walmart.com,
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,Joshua.Nugent@walmart.com,
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,Lance.Jackson@walmart.com,
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,Matthew.Frisby@walmart.com,
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,Robert.Longfellow@walmart.com,
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,Ruben.Medina.Jr@walmart.com,
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,Steven.Marsden@walmart.com,
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,francisco.vidal.castro@walmart.com,
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,justin.vanzuiden@walmart.com,
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,madalina.vrejoiu@walmart.com,
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,miranda.bendele@walmart.com,
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,travis.garrison@walmart.com,
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,,1174898150
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,,1446149747
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,,165789601
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,,1798393633
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,,2135794304
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,,290517152
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,,30698974
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,,405762750
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,,715534700
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,,816620066
+81598,515,288,Walmart PHX1 Metrics - Today,Walmart PHX1 Metrics - Today Report,1690241474000,1690241617000,True,28,0,0,3080634,True,success,,94092464
+81599,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1690241474000,1690241555000,True,28,0,0,3522994,True,success,Jeremy.Bowman0@walmart.com,
+81599,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1690241474000,1690241555000,True,28,0,0,3522994,True,success,Joshua.Doan@walmart.com,
+81599,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1690241474000,1690241555000,True,28,0,0,3522994,True,success,Joshua.Nugent@walmart.com,
+81599,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1690241474000,1690241555000,True,28,0,0,3522994,True,success,Steven.Marsden@walmart.com,
+81599,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1690241474000,1690241555000,True,28,0,0,3522994,True,success,dean.yoder@walmart.com,
+81599,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1690241474000,1690241555000,True,28,0,0,3522994,True,success,kendall.powers@walmart.com,
+81599,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1690241474000,1690241555000,True,28,0,0,3522994,True,success,leanne.aurand@walmart.com,
+81599,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1690241474000,1690241555000,True,28,0,0,3522994,True,success,,1174898150
+81599,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1690241474000,1690241555000,True,28,0,0,3522994,True,success,,165789601
+81599,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1690241474000,1690241555000,True,28,0,0,3522994,True,success,,2109124505
+81599,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1690241474000,1690241555000,True,28,0,0,3522994,True,success,,2137348407
+81599,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1690241474000,1690241555000,True,28,0,0,3522994,True,success,,30698974
+81599,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1690241474000,1690241555000,True,28,0,0,3522994,True,success,,405762750
+81599,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1690241474000,1690241555000,True,28,0,0,3522994,True,success,,669710090
+81599,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1690241474000,1690241555000,True,28,0,0,3522994,True,success,,715534700
+81599,516,250,Walmart DFW6 Metrics - Today,Walmart DFW6 Metrics - Today Report,1690241474000,1690241555000,True,28,0,0,3522994,True,success,,816620066
+81600,879,515,CSC | Volume Summary | Table for Objective Test,CSC | Volume Summary | Table for Objective Test Report,1690241474000,1690241477000,True,1,0,0,45649,False,success,customeroperations.us.ticketing@packsize.com,
+81600,879,515,CSC | Volume Summary | Table for Objective Test,CSC | Volume Summary | Table for Objective Test Report,1690241474000,1690241477000,True,1,0,0,45649,False,success,travis@objective.dev,
+81600,879,515,CSC | Volume Summary | Table for Objective Test,CSC | Volume Summary | Table for Objective Test Report,1690241474000,1690241477000,True,1,0,0,45649,False,success,,871983021
+81596,691,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1690240574000,1690240688000,True,30,0,0,1403408,True,success,,1659346064
+81596,691,410,ORD1 End of Shift Reporting,ORD1 End of Shift Reporting Report,1690240574000,1690240688000,True,30,0,0,1403408,True,success,,405762750
+81595,549,336,Smartsheet Non-Complete Tasks,Smartsheet Non-Complete Tasks Report,1690239674000,1690239676000,True,1,0,0,31694,False,success,,1790657358
+81594,878,515,CSC | Volume Summary | Table for Objective Test,CSC | Volume Summary | Table for Objective Test Report,1690237871000,1690237874000,True,1,0,0,45660,False,success,customeroperations.us.ticketing@packsize.com,
+81594,878,515,CSC | Volume Summary | Table for Objective Test,CSC | Volume Summary | Table for Objective Test Report,1690237871000,1690237874000,True,1,0,0,45660,False,success,travis@objective.dev,
+81594,878,515,CSC | Volume Summary | Table for Objective Test,CSC | Volume Summary | Table for Objective Test Report,1690237871000,1690237874000,True,1,0,0,45660,False,success,,871983021
+81591,321,212,Canceled invoice list,Canceled invoice list Report,1690236077000,1690236080000,True,1,0,0,43772,False,success,,154752432
+81591,321,212,Canceled invoice list,Canceled invoice list Report,1690236077000,1690236080000,True,1,0,0,43772,False,success,,1801321650
+81591,321,212,Canceled invoice list,Canceled invoice list Report,1690236077000,1690236080000,True,1,0,0,43772,False,success,,2099540043
+81591,321,212,Canceled invoice list,Canceled invoice list Report,1690236077000,1690236080000,True,1,0,0,43772,False,success,,263851161
+81591,321,212,Canceled invoice list,Canceled invoice list Report,1690236077000,1690236080000,True,1,0,0,43772,False,success,,712150304
+81591,321,212,Canceled invoice list,Canceled invoice list Report,1690236077000,1690236080000,True,1,0,0,43772,False,success,,741219813
+81591,321,212,Canceled invoice list,Canceled invoice list Report,1690236077000,1690236080000,True,1,0,0,43772,False,success,,823874641
+81592,630,379,Crutchfield,Crutchfield Report,1690236077000,1690236116000,True,18,0,0,1379230,True,success,cgroseclose@crutchfield.com,
+81592,630,379,Crutchfield,Crutchfield Report,1690236077000,1690236116000,True,18,0,0,1379230,True,success,sbenabed@crutchfield.com,
+81592,630,379,Crutchfield,Crutchfield Report,1690236077000,1690236116000,True,18,0,0,1379230,True,success,shanea@crutchfield.com,
+81592,630,379,Crutchfield,Crutchfield Report,1690236077000,1690236116000,True,18,0,0,1379230,True,success,tallen@crutchfield.com,
+81592,630,379,Crutchfield,Crutchfield Report,1690236077000,1690236116000,True,18,0,0,1379230,True,success,,1088055177
+81592,630,379,Crutchfield,Crutchfield Report,1690236077000,1690236116000,True,18,0,0,1379230,True,success,,1174898150
+81592,630,379,Crutchfield,Crutchfield Report,1690236077000,1690236116000,True,18,0,0,1379230,True,success,,1331552946
+81592,630,379,Crutchfield,Crutchfield Report,1690236077000,1690236116000,True,18,0,0,1379230,True,success,,175859837
+81592,630,379,Crutchfield,Crutchfield Report,1690236077000,1690236116000,True,18,0,0,1379230,True,success,,293502580
+81593,682,370,CSC | Completion Time Later than Appointment Time Audit,CSC | Completion Time Later than Appointment Time Audit Report,1690236077000,1690236079000,True,1,0,0,5199,False,success,customeroperations.us.ticketing@packsize.com,
+81593,682,370,CSC | Completion Time Later than Appointment Time Audit,CSC | Completion Time Later than Appointment Time Audit Report,1690236077000,1690236079000,True,1,0,0,5199,False,success,fanfold@vancraft.com,
+81593,682,370,CSC | Completion Time Later than Appointment Time Audit,CSC | Completion Time Later than Appointment Time Audit Report,1690236077000,1690236079000,True,1,0,0,5199,False,success,jsateam@spotinc.com,
+81590,877,515,CSC | Volume Summary | Table for Objective Test,CSC | Volume Summary | Table for Objective Test Report,1690234274000,1690234277000,True,1,0,0,45660,False,success,customeroperations.us.ticketing@packsize.com,
+81590,877,515,CSC | Volume Summary | Table for Objective Test,CSC | Volume Summary | Table for Objective Test Report,1690234274000,1690234277000,True,1,0,0,45660,False,success,travis@objective.dev,
+81590,877,515,CSC | Volume Summary | Table for Objective Test,CSC | Volume Summary | Table for Objective Test Report,1690234274000,1690234277000,True,1,0,0,45660,False,success,,871983021
+81589,647,320,Packsize Supply | Halted zFold Orders,Packsize Supply | Halted zFold Orders Report,1690233372000,1690233374000,True,1,0,0,5181,False,success,customeroperations.us.ticketing@packsize.com,
+81583,347,223,Packsize Supply | Requested to Planned Delivery Days Diff,Date Change Notification | PM,1690232474000,1690232476000,True,1,0,0,1536,False,success,customeroperations.us@packsize.com,
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,Bhargav.gorantla@walmart.com,
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,Denis.Markov@walmart.com,
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,Jeremy.Bowman0@walmart.com,
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,Kevin.Kowalski@walmart.com,
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,Paul.Arthur@walmart.com,
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,Randolph.Scott@walmart.com,
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,Steven.Marsden@walmart.com,
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,William.Pickens@walmart.com,
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,james.sorlie@walmart.com,
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,nathan.merchant@walmart.com,
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,sergio.soto@walmart.com,
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,steve.larsen@packsize.com,
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,steven.marsden@packsize.com,
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,vivek.tomar@walmart.com,
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,,1174898150
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,,1369192882
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,,1419631367
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,,1718809419
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,,1826227365
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,,1891452796
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,,294134365
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,,30698974
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,,330177839
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,,405762750
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,,533029846
+81584,544,155,Walmart NJ51 Metrics - Today,Walmart NJ51 Metrics - Today Report,1690232474000,1690232581000,True,32,0,0,3257396,True,success,,715534700
+81585,613,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1690232474000,1690232672000,True,1,0,0,76414,True,success,stephen.whetstone@flex.com,
+81585,613,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1690232474000,1690232672000,True,1,0,0,76414,True,success,,1076029022
+81585,613,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1690232474000,1690232672000,True,1,0,0,76414,True,success,,1387011723
+81585,613,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1690232474000,1690232672000,True,1,0,0,76414,True,success,,1700135738
+81585,613,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1690232474000,1690232672000,True,1,0,0,76414,True,success,,1961942960
+81585,613,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1690232474000,1690232672000,True,1,0,0,76414,True,success,,394054519
+81585,613,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1690232474000,1690232672000,True,1,0,0,76414,True,success,,46396150
+81585,613,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1690232474000,1690232672000,True,1,0,0,76414,True,success,,760277472
+81585,613,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1690232474000,1690232672000,True,1,0,0,76414,True,success,,968846050
+81586,803,382,Customer Machine Reporting Dashboard,The Church of Jesus Christ of Latter-day Saints Report,1690232474000,1690232543000,True,27,0,0,1541898,True,success,TurnerJD@churchofjesuschrist.org,
+81586,803,382,Customer Machine Reporting Dashboard,The Church of Jesus Christ of Latter-day Saints Report,1690232474000,1690232543000,True,27,0,0,1541898,True,success,chad.johnson@churchofjesuschrist.org,
+81586,803,382,Customer Machine Reporting Dashboard,The Church of Jesus Christ of Latter-day Saints Report,1690232474000,1690232543000,True,27,0,0,1541898,True,success,dario.sanchez@packsize.com,
+81586,803,382,Customer Machine Reporting Dashboard,The Church of Jesus Christ of Latter-day Saints Report,1690232474000,1690232543000,True,27,0,0,1541898,True,success,jamie.deist@cardinalhealth.com,
+81586,803,382,Customer Machine Reporting Dashboard,The Church of Jesus Christ of Latter-day Saints Report,1690232474000,1690232543000,True,27,0,0,1541898,True,success,nesbithm@churchofjesuschrist.org,
+81586,803,382,Customer Machine Reporting Dashboard,The Church of Jesus Christ of Latter-day Saints Report,1690232474000,1690232543000,True,27,0,0,1541898,True,success,,1512916494
+81586,803,382,Customer Machine Reporting Dashboard,The Church of Jesus Christ of Latter-day Saints Report,1690232474000,1690232543000,True,27,0,0,1541898,True,success,,1644326214
+81586,803,382,Customer Machine Reporting Dashboard,The Church of Jesus Christ of Latter-day Saints Report,1690232474000,1690232543000,True,27,0,0,1541898,True,success,,175859837
+81586,803,382,Customer Machine Reporting Dashboard,The Church of Jesus Christ of Latter-day Saints Report,1690232474000,1690232543000,True,27,0,0,1541898,True,success,,1905685649
+81586,803,382,Customer Machine Reporting Dashboard,The Church of Jesus Christ of Latter-day Saints Report,1690232474000,1690232543000,True,27,0,0,1541898,True,success,,442349503
+81587,808,490,FLEX Production Machine -Error Pareto Primary Errors,FLEX Production Machine -Error Pareto Primary Errors Report,1690232474000,1690232726000,True,1,0,0,72699,False,success,,1076029022
+81587,808,490,FLEX Production Machine -Error Pareto Primary Errors,FLEX Production Machine -Error Pareto Primary Errors Report,1690232474000,1690232726000,True,1,0,0,72699,False,success,,394054519
+81587,808,490,FLEX Production Machine -Error Pareto Primary Errors,FLEX Production Machine -Error Pareto Primary Errors Report,1690232474000,1690232726000,True,1,0,0,72699,False,success,,46396150
+81588,821,498,FLEX Production Machine -Error Table,FLEX Production Machine -Error Table Report,1690232474000,1690232727000,True,1,0,0,697654,False,success,,1076029022
+81588,821,498,FLEX Production Machine -Error Table,FLEX Production Machine -Error Table Report,1690232474000,1690232727000,True,1,0,0,697654,False,success,,394054519
+81588,821,498,FLEX Production Machine -Error Table,FLEX Production Machine -Error Table Report,1690232474000,1690232727000,True,1,0,0,697654,False,success,,46396150
+81588,821,498,FLEX Production Machine -Error Table,FLEX Production Machine -Error Table Report,1690232474000,1690232727000,True,1,0,0,697654,False,success,,485300974
+81582,876,515,CSC | Volume Summary | Table for Objective Test,CSC | Volume Summary | Table for Objective Test Report,1690230675000,1690230677000,True,1,0,0,43786,False,success,customeroperations.us.ticketing@packsize.com,
+81582,876,515,CSC | Volume Summary | Table for Objective Test,CSC | Volume Summary | Table for Objective Test Report,1690230675000,1690230677000,True,1,0,0,43786,False,success,travis@objective.dev,
+81582,876,515,CSC | Volume Summary | Table for Objective Test,CSC | Volume Summary | Table for Objective Test Report,1690230675000,1690230677000,True,1,0,0,43786,False,success,,871983021
+81578,509,339,Avg Boxes and Errors for HD Yesterday,Avg Boxes and Errors for HD Last 7 Days Report,1690228879000,1690228882000,True,1,0,0,97128,False,success,downstream_bi@homedepot.com,
+81578,509,339,Avg Boxes and Errors for HD Yesterday,Avg Boxes and Errors for HD Last 7 Days Report,1690228879000,1690228882000,True,1,0,0,97128,False,success,,1363758579
+81578,509,339,Avg Boxes and Errors for HD Yesterday,Avg Boxes and Errors for HD Last 7 Days Report,1690228879000,1690228882000,True,1,0,0,97128,False,success,,485300974
+81579,522,215,Packsize Supply | Order Comment Review Report,Packsize Supply | Order Comment Review Report Report,1690228879000,1690228881000,True,1,0,0,51892,False,success,customeroperations.us@packsize.com,
+81580,612,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1690228879000,1690229104000,True,1,0,0,76414,True,success,stephen.whetstone@flex.com,
+81580,612,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1690228879000,1690229104000,True,1,0,0,76414,True,success,,1178106350
+81580,612,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1690228879000,1690229104000,True,1,0,0,76414,True,success,,1387011723
+81580,612,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1690228879000,1690229104000,True,1,0,0,76414,True,success,,1700135738
+81580,612,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1690228879000,1690229104000,True,1,0,0,76414,True,success,,1961942960
+81580,612,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1690228879000,1690229104000,True,1,0,0,76414,True,success,,394054519
+81580,612,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1690228879000,1690229104000,True,1,0,0,76414,True,success,,46396150
+81580,612,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1690228879000,1690229104000,True,1,0,0,76414,True,success,,760277472
+81580,612,366,Federated Snowflake Flex,Federated Snowflake Flex Report,1690228879000,1690229104000,True,1,0,0,76414,True,success,,968846050
+81581,800,487,IS BA/BI Team Dashboard,IS BA/BI Team Dashboard Report,1690228879000,1690228926000,True,20,0,0,2004700,True,success,,871983021
+81577,881,515,CSC | Volume Summary | Table for Objective Test,CSC | Volume Summary | Table for Objective Test Report,1690227077000,1690227079000,True,1,0,0,45757,False,success,,871983021
