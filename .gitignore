@@ -170,4 +170,4 @@ azure_devops_csv_data
 .DS_Store
 jaccard_index_csv_data
 log_csv_dir
-schedule_report_data/
+schedule_report_data/*
